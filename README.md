@@ -45,21 +45,32 @@ transformers-battle/
 ## ⚡ Build & Run
 
 ### Compile:
-```bash
-- g++ main.cpp robot.cpp optimusprime.cpp megatron.cpp weapon.cpp -o battle
 
-### Compile:
-- ./battle
+- `g++ main.cpp robot.cpp optimusprime.cpp megatron.cpp weapon.cpp -o battle`
 
 ---
 
+
+## ▶️ Run
+
+- `./battle`
+---
+
 ## 📸 Example Output
+
 Optimus Prime attacks Megatron with his weapon!  
 Megatron loses 20 health points.  
 Megatron strikes back fiercely!  
 Optimus Prime loses 15 health points.  
 ...  
 🏆 Optimus Prime wins the battle!  
+
+---
+
+## 🤝 Contributing
+
+Pull requests are welcome. If you’d like to improve the battle mechanics, add more robots, or enhance the weapon system, feel free to fork and submit a PR.
+
 
 
 
