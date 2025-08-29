@@ -1,0 +1,2 @@
+C:/Users/USER/battle/build/CMakeFiles/edit_cache.dir
+C:/Users/USER/battle/build/CMakeFiles/rebuild_cache.dir
