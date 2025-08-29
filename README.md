@@ -1,4 +1,4 @@
-# 🚀 Transformers Battle
+#  Transformers Battle
 
 A simple C++ project that simulates a battle between **Optimus Prime** and **Megatron**.  
 The project is built with Object-Oriented Programming (OOP) concepts such as **classes**, **inheritance**, and **encapsulation**.
@@ -25,7 +25,7 @@ The goal of the task is to practice **C++ OOP design** and compile the project i
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 transformers-battle/
 │
 ├── main.cpp
@@ -42,7 +42,7 @@ transformers-battle/
 
 ---
 
-## ⚡ Build & Run
+##  Build & Run
 
 ### Compile:
 
@@ -51,25 +51,26 @@ transformers-battle/
 ---
 
 
-## ▶️ Run
+## ▶ Run
 
 - `./battle`
 ---
 
-## 📸 Example Output
+##  Example Output
 
 Optimus Prime attacks Megatron with his weapon!  
 Megatron loses 20 health points.  
 Megatron strikes back fiercely!  
 Optimus Prime loses 15 health points.  
 ...  
-🏆 Optimus Prime wins the battle!  
+ptimus Prime wins the battle!  
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Pull requests are welcome. If you’d like to improve the battle mechanics, add more robots, or enhance the weapon system, feel free to fork and submit a PR.
+
 
 
 
